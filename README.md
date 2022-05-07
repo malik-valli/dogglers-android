@@ -1,9 +1,9 @@
 # Google's open project
 The application uses concepts such as..
 - navigation between activities (intents);
+- actions based on the current context;
 - recycler views and their adapters;
 - layout managers;
-- actions based on the current context;
 - separation of the application into packages of models, data and adapters;
 
 You can **download** .APK file in **'builds/tip-time.apk'** directory
