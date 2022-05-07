@@ -6,7 +6,7 @@ The application uses concepts such as..
 - layout managers;
 - separation of the application into packages of models, data and adapters;
 
-You can **download** .APK file in **'builds/tip-time.apk'** directory
+You can **download** .APK file in **'builds/dogglers.apk'** directory
 
 <p>
   <img src="https://user-images.githubusercontent.com/81878781/167246232-d5c92e54-8849-4f75-8d75-1a1703fe341b.png" width="200">
